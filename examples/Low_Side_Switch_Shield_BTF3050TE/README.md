@@ -2,7 +2,9 @@
 
 Please open the example sketch `Low_Side_Switch_Shield_BTF3050TE.ino` in this folder.
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/BTF3050TE_Low-Side_Switch_Shield_top-view_component-description.jpg" width=350><img src="https://github.com/Infineon/Assets/blob/master/Pictures/BTF3050TE_Low-Side_Switch_Shield_top-view_pinout.jpg" width=350>
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/BTF3050TE_Low-Side_Switch_Shield_top-view_component-description.jpg" width=600>
+
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/BTF3050TE_Low-Side_Switch_Shield_top-view_pinout.jpg" width=400>
 
 ## Hardware
 
