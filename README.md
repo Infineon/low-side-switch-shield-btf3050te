@@ -4,6 +4,9 @@
 
 Example code for Infineon's [Low-Side Switch Shield with BTF3050TE](https://www.infineon.com/cms/en/product/evaluation-boards/shield_btf3050te/) for Arduino IDE. Refer also to the [User manual](https://www.infineon.com/dgdl/Infineon-Low_Side_Switch_Shield_with_BTF3050TE_for_Arduino_Users_Manual-UM-v01_00-EN.pdf?fileId=5546d46256fb43b301572836a14c4c36).
 
+
+For a quick start guide please [follow the instructions in the wiki](https://github.com/Infineon/low-side-switch-shield-btf3050te/wiki#getting-started).
+
 ## Summary
 
 ### Overview
